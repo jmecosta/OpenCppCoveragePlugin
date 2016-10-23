@@ -16,3 +16,4 @@ VSPackage/OpenCppCoverage-x86
 
 # ProtBuff file
 VSPackage/CoverageData/CoverageData.cs
+VSPackage/CoverageRateBuilder/obj/**
